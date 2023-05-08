@@ -1,0 +1,142 @@
+/* Min Width 1200px and Max Width 1399px */
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+  .work-shape1 {
+    right: -115px;
+  }
+
+  .work-shape4 {
+    left: -240px;
+    top: -10px;
+  }
+
+  .work-shape5 {
+    top: -180px;
+    right: -220px;
+  }
+}
+
+/* Min Width 992px and Max Width 1199px */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .hero-content h2 {
+    font-size: 40px;
+    line-height: 55px;
+  }
+
+  .get-started-content h2 {
+    font-size: 36px;
+    line-height: 45px;
+  }
+
+  .work-shape1 {
+    right: -93px;
+  }
+
+  .work-shape4 {
+    left: -220px;
+    top: -10px;
+  }
+
+  .work-shape5 {
+    top: -180px;
+    right: -112px;
+  }
+}
+
+/* Min Width 768px and Max Width 991px */
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .hero-content h2 {
+    font-size: 36px;
+    line-height: 45px;
+  }
+
+  .get-started-content h2 {
+    font-size: 30px;
+    line-height: 35px;
+  }
+
+  .work-shape1 {
+    right: -93px;
+  }
+
+  .work-shape4 {
+    left: -220px;
+    top: -10px;
+  }
+
+  .work-shape5 {
+    top: -180px;
+    right: -112px;
+  }
+}
+
+/* Min Width 300px and Max Width 767px */
+
+@media (min-width: 300px) and (max-width: 767px) {
+  .section-title h3 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .hero-content h2 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .hero-content p {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .hero-shape {
+    bottom: 44%;
+    left: -6%;
+  }
+
+  .steps-shape img,
+  .fetures-shape1 img,
+  .work-shape1 img,
+  .work-shape2 img,
+  .work-shape3 img,
+  .work-shape4 img,
+  .work-shape5 img {
+    max-width: 50%;
+  }
+
+  .steps-shape {
+    top: 180px;
+    right: -102px;
+  }
+
+  .get-started-content h2 {
+    font-size: 28px;
+    line-height: 40px;
+  }
+
+  .work-content h3 {
+    font-size: 22px;
+    line-height: 35px;
+  }
+
+  .work-shape1 {
+    right: -60px;
+    top: 65px;
+  }
+
+  .work-shape3 {
+    right: -110px;
+    top: 65px;
+  }
+
+  .work-shape4 {
+    left: -70px;
+    top: 20px;
+  }
+
+  .work-shape5 {
+    top: -170px;
+    right: -160px;
+  }
+}
