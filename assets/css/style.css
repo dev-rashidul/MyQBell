@@ -212,6 +212,26 @@ nav.navbar {
 
 /* Hero Section CSS Start */
 
+.doorbell-logo img {
+  width: 80px;
+}
+
+.doorbell-text h3 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 28px;
+  text-transform: uppercase;
+  color: var(--dark);
+  margin: 0;
+}
+
+.doorbell-text h6 {
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: var(--primary);
+}
+
 .hero-content {
   max-width: 515px;
   width: 100%;
@@ -328,6 +348,7 @@ nav.navbar {
 
 .features-card {
   width: 100%;
+  height: 100%;
   padding: 40px;
   background: #ffffff;
   border: 1px solid #dbdbdb;
@@ -353,10 +374,6 @@ nav.navbar {
   line-height: 24px;
   color: var(--dark);
   margin-bottom: 0;
-}
-
-.required-app-card {
-  margin-top: 45px;
 }
 
 .fetures-shape1 {
